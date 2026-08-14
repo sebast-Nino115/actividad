@@ -231,11 +231,6 @@ const WORDS=[
     clue:"Hay uno de los dos que recibe bastante cariño, consentimiento y atención… y ambos sabemos que eres el más ___.",
     hints:["Empieza por MI y termina en DO.","Se escribe así: M I M A _ O"]
   },
-  {
-    word:"ESPECIAL",
-    clue:"Podría conocer a muchas personas, pero ninguna sería exactamente como tú. Para mí siempre vas a ser alguien ___.",
-    hints:["Empieza por ES y termina en AL.","Se escribe así: E S P E _ I A L"]
-  }
 ];
 
 const LETTERS="ABCDEFGHIJKLMNÑOPQRSTUVWXYZ";
